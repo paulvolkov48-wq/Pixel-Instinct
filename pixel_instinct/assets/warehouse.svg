@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100">
-<defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#b8c9b5"/><stop offset="1" stop-color="#455c4d"/></linearGradient><linearGradient id="floor" x2="0" y2="1"><stop stop-color="#758777"/><stop offset="1" stop-color="#34473b"/></linearGradient></defs>
-<rect width="900" height="1100" fill="url(#bg)"/><path d="M0 0H900V260L0 430Z" fill="#d5dfd0"/><path d="M0 430L900 260V650L0 850Z" fill="#93a894"/><path d="M0 850L900 650V1100H0Z" fill="url(#floor)"/>
-<g stroke="#293d32" stroke-width="18" fill="none"><path d="M90 120V790M300 80V745M510 45V700M720 10V655"/><path d="M45 250L760 105M45 430L760 285M45 610L760 465M45 780L760 635"/></g>
-<g fill="#dca45f" stroke="#6d573a" stroke-width="8"><path d="M110 165l165-33v85l-165 36z"/><path d="M110 290l165-33v85l-165 36z"/><path d="M110 465l165-33v85l-165 36z"/><path d="M325 125l165-33v85l-165 36z"/><path d="M325 250l165-33v85l-165 36z"/><path d="M535 90l165-33v85l-165 36z"/><path d="M535 215l165-33v85l-165 36z"/></g>
-<path d="M430 1100L490 650L570 650L720 1100" fill="#b6c3ad" opacity=".45"/><g fill="#eef2e8" opacity=".75"><rect x="670" y="80" width="140" height="90" rx="8"/><rect x="690" y="190" width="120" height="65" rx="8"/></g></svg>
